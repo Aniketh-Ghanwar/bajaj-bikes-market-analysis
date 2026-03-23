@@ -1,0 +1,16 @@
+Model,Brand,Segment,Engine_cc,Battery_kWh,Power_bhp,Torque_Nm,Top_Speed_kmph,Range_km,Weight_kg,Price_INR_Lakh,ABS,Fuel_Type,Launch_Year,Mileage_kmpl,BS_Norm,Cooling,Body_Style,Power_per_kg,Value_Score,Price_Band
+Chetak Premium 3.2kWh,Chetak,Electric Scooter,0.0,3.2,4.08,16.0,73,108,111,1.27,No,Electric,2023,,N/A,Liquid,Scooter,0.0368,2.35,Mid-Range
+Chetak Urbane 2.9kWh,Chetak,Electric Scooter,0.0,2.9,3.8,16.0,63,95,111,1.16,No,Electric,2022,,N/A,Liquid,Scooter,0.0342,2.06,Budget
+Chetak Premium 2.9kWh,Chetak,Electric Scooter,0.0,2.9,3.8,16.0,73,95,111,1.22,No,Electric,2022,,N/A,Liquid,Scooter,0.0342,2.27,Budget
+Chetak 35 Series,Chetak,Electric Scooter,0.0,3.5,4.5,16.0,78,113,113,1.45,No,Electric,2024,,N/A,Liquid,Scooter,0.0398,2.42,Mid-Range
+Pulsar N160,Pulsar,Street Naked,160.0,,15.5,14.6,114,350,153,1.38,Single,Petrol,2022,52.0,BS6,Oil-Cooled,Naked,0.1013,12.8,Mid-Range
+Pulsar NS200,Pulsar,Street Naked,199.5,,24.5,18.74,140,310,156,1.62,Dual,Petrol,2012,35.0,BS6,Liquid,Naked,0.1571,21.17,Mid-Range
+Pulsar RS200,Pulsar,Sport,199.5,,24.5,18.74,140,290,165,1.72,Dual,Petrol,2014,30.0,BS6,Liquid,Faired,0.1485,19.94,Mid-Range
+Pulsar N250,Pulsar,Street Naked,249.07,,24.5,21.5,137,370,160,1.58,Dual,Petrol,2022,40.0,BS6,Oil-Cooled,Naked,0.1531,21.24,Mid-Range
+Pulsar F250,Pulsar,Street Naked,249.07,,24.5,21.5,135,360,163,1.53,Dual,Petrol,2022,42.0,BS6,Oil-Cooled,Half-Faired,0.1503,21.62,Mid-Range
+Pulsar 220F,Pulsar,Sport Tourer,220.0,,20.4,18.55,140,300,154,1.41,Single,Petrol,2006,38.0,BS6,Air-Cooled,Half-Faired,0.1325,20.26,Mid-Range
+Pulsar 150,Pulsar,Commuter,149.5,,14.0,13.25,115,380,143,1.08,No,Petrol,2001,55.0,BS6,Air-Cooled,Naked,0.0979,14.91,Budget
+Pulsar P150,Pulsar,Commuter,149.0,,14.4,13.25,115,380,150,1.18,Single,Petrol,2023,55.0,BS6,Air-Cooled,Naked,0.096,14.03,Budget
+Triumph Speed 400,Triumph,Roadster,398.15,,39.5,37.5,180,280,176,2.33,Dual,Petrol,2023,32.0,BS6,Liquid,Roadster,0.2244,30.52,Premium
+Triumph Scrambler 400X,Triumph,Adventure,398.15,,39.5,37.5,170,270,184,2.65,Dual,Petrol,2023,30.0,BS6,Liquid,Scrambler,0.2147,25.34,Premium
+Triumph Speed T4,Triumph,Roadster,398.15,,39.5,37.5,180,280,174,2.15,Dual,Petrol,2024,33.0,BS6,Liquid,Roadster,0.227,33.07,Premium

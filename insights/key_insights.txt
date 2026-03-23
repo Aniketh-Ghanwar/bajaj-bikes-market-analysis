@@ -1,0 +1,54 @@
+
+╔══════════════════════════════════════════════════════════════════════════╗
+║        BAJAJ BIKES ANALYSIS — KEY INSIGHTS REPORT                      ║
+║        Brands: Chetak EV | Pulsar | Triumph (Bajaj Collab)             ║
+╚══════════════════════════════════════════════════════════════════════════╝
+
+1. PRICING LANDSCAPE
+   ─────────────────
+   • Triumph is the premium leader at avg ₹2.38L — 71% costlier than Pulsar.
+   • Pulsar dominates the mid-range (₹1.08L – ₹1.72L), offering 8 models.
+   • Chetak EV fits into the budget-to-mid segment (₹1.16L – ₹1.45L).
+
+2. POWER & PERFORMANCE
+   ────────────────────
+   • Triumph Speed 400 / Scrambler 400X lead with 39.5 bhp — highest in lineup.
+   • Pulsar RS200 & NS200 are the performance kings within the ICE mid-segment.
+   • Chetak EVs are low-power scooters (3.8–4.5 bhp), designed for city mobility.
+
+3. VALUE FOR MONEY (Value Score = Power × Speed / Price)
+   ───────────────────────────────────────────────────────
+   • Pulsar NS200 scores highest → best performance-per-rupee.
+   • Triumph Speed 400 is close second despite higher price (raw power compensates).
+   • Chetak ranks low on value score — EV's strength is economy, not raw score.
+
+4. EV vs ICE
+   ──────────
+   • Electric (Chetak) avg range ≈ 103 km  vs  ICE avg range ≈ 322 km.
+   • EV pricing is competitive (avg ₹1.28L) but range anxiety is a concern.
+   • Chetak 35 Series (2024) improves range to 113 km — positive trajectory.
+
+5. BRAND IDENTITY
+   ───────────────
+   • Chetak  → Eco-friendly urban commuter, nostalgic rebrand as electric.
+   • Pulsar  → Youth-oriented sporty segment, widest model portfolio.
+   • Triumph → International premium segment, powered by Bajaj platform.
+
+6. SAFETY FEATURES
+   ─────────────────
+   • 100% Triumph models come with Dual-channel ABS (premium safety standard).
+   • Only 50% of Pulsar models have ABS; Chetak EVs lack ABS entirely.
+   • Safety tech adoption needs improvement across budget Chetak/Pulsar range.
+
+7. COOLING & TECHNOLOGY
+   ──────────────────────
+   • All Triumph & premium Pulsars use liquid cooling → better sustained performance.
+   • Budget Pulsars (150, 220F) retain air-cooling — cost efficiency trade-off.
+   • Chetak's liquid-cooled motor is a positive EV design choice.
+
+8. MARKET RECOMMENDATIONS
+   ─────────────────────────
+   ★ Best All-Rounder : Pulsar N250 (₹1.58L, 24.5 bhp, 370 km range)
+   ★ Best EV          : Chetak 35 Series (₹1.45L, 4.5 bhp, 113 km, latest tech)
+   ★ Best Premium     : Triumph Speed 400 (₹2.33L, 39.5 bhp, international quality)
+   ★ Best Budget      : Pulsar 150 (₹1.08L, solid commuter, widest service network)
